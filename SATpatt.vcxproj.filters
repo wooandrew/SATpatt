@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ans\08_writing.ans" />
+    <None Include="ans\01_mathcalc.ans" />
+    <None Include="ans\01_mathnocalc.ans" />
+    <None Include="ans\01_reading.ans" />
+    <None Include="ans\01_writing.ans" />
+    <None Include="ans\02_mathcalc.ans" />
+    <None Include="ans\02_mathnocalc.ans" />
+    <None Include="ans\02_reading.ans" />
+    <None Include="ans\02_writing.ans" />
+    <None Include="ans\03_mathcalc.ans" />
+    <None Include="ans\03_mathnocalc.ans" />
+    <None Include="ans\03_reading.ans" />
+    <None Include="ans\03_writing.ans" />
+    <None Include="ans\04_mathcalc.ans" />
+    <None Include="ans\04_mathnocalc.ans" />
+    <None Include="ans\04_reading.ans" />
+    <None Include="ans\04_writing.ans" />
+    <None Include="ans\05_mathcalc.ans" />
+    <None Include="ans\05_mathnocalc.ans" />
+    <None Include="ans\05_reading.ans" />
+    <None Include="ans\05_writing.ans" />
+    <None Include="ans\06_mathcalc.ans" />
+    <None Include="ans\06_mathnocalc.ans" />
+    <None Include="ans\06_reading.ans" />
+    <None Include="ans\06_writing.ans" />
+    <None Include="ans\07_mathcalc.ans" />
+    <None Include="ans\07_mathnocalc.ans" />
+    <None Include="ans\07_reading.ans" />
+    <None Include="ans\07_writing.ans" />
+    <None Include="ans\08_mathcalc.ans" />
+    <None Include="ans\08_mathnocalc.ans" />
+    <None Include="ans\08_reading.ans" />
+    <None Include="ans\create.bat">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="ans\02_math.rawscore" />
+    <None Include="ans\01_writing.rawscore" />
+    <None Include="ans\01_reading.rawscore" />
+    <None Include="ans\01_math.rawscore" />
+    <None Include="ans\02_reading.rawscore" />
+    <None Include="ans\02_writing.rawscore" />
+    <None Include="ans\03_math.rawscore" />
+    <None Include="ans\03_writing.rawscore" />
+    <None Include="ans\04_math.rawscore" />
+    <None Include="ans\03_reading.rawscore" />
+    <None Include="ans\04_reading.rawscore" />
+    <None Include="ans\05_math.rawscore" />
+    <None Include="ans\04_writing.rawscore" />
+    <None Include="ans\05_reading.rawscore" />
+    <None Include="ans\05_writing.rawscore" />
+    <None Include="ans\06_math.rawscore" />
+    <None Include="ans\06_reading.rawscore" />
+    <None Include="ans\06_writing.rawscore" />
+    <None Include="ans\07_math.rawscore" />
+    <None Include="ans\07_reading.rawscore" />
+    <None Include="ans\08_math.rawscore" />
+    <None Include="ans\07_writing.rawscore" />
+    <None Include="ans\08_reading.rawscore" />
+    <None Include="ans\08_writing.rawscore" />
+    <None Include="ans\createraw.bat">
+      <Filter>Source Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="notepad.txt" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,28 @@
+SATpatt C++ Notepad
+
+
+SATDict
+container idea
+
+vector<char> vReading(52);
+vector<char> vWriting(44);
+etc., etc.
+etc., etc.
+
+vReading[x] = {"Correct Answer", "A", "B", "C", etc.}; _____ Reading: Question x + 1 answers
+vWriting[x] = {"Correct Answer", "A", "B", "C", etc.}; _____ Writing: Question x + 1 answers
+etc., etc.
+etc., etc.
+
+
+idea 2
+
+vector<pair<string, vector>> vReading = vector<pair<string, vector>>(52);
+
+etc., etc.
+etc., etc.
+
+vReading[x] = {"Correct Answer", {"A", "B", "C", etc.}}; _____ Reading: Question x + 1 answers
+
+vReading[x][0] = "Correct Answer";
+vReading[x][1][0] = "A";
