@@ -85,5 +85,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="notepad.txt" />
+    <Text Include="LICENSE.txt" />
   </ItemGroup>
 </Project>
