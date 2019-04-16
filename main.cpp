@@ -6,7 +6,7 @@
 
 /* Title: SATpatt
  * Author: Andrew Woo
- * Version: rA001
+ * Version: rA002
  * License: MIT
  *
  * Purpose: 
@@ -40,8 +40,8 @@
  *	find commonalities
 **/
 
-/// v0.1.0 ~ bA001 ::: THIS CODE IS NOT OPTIMIZED, IT IS ONLY TESTED FOR FUNCTIONALITY.
-/// v0.1.1 ~ bA002 ::: THIS CODE IS NON-EXISTANT.
+/// v0.1.0 ~ bA001 ::: BASIC FUNCTIONALITY
+/// v0.1.1 ~ bA002 ::: ADDS BIASED PATTERN OUTPUT
 /// v1.0.0 ~ rA001 ::: THIS CODE IS EXACTLY LIKE bA001.
 
 #include <iostream>
@@ -234,7 +234,7 @@ int main() {
 		system("TITLE SATpatt");
 
 		// Match Test
-		std::cout << "\nEnter 'exit' to close program. Enter 'U' for unanswered questions." << std::endl;
+		std::cout << "\nEnter 'exit' to close program. Enter 'U' for unanswered questions.";
 		std::cout << "\nEnter Test # [01, 02, 03, etc.]: ";
 		std::cin >> s_TestID;
 
@@ -622,21 +622,45 @@ int main() {
 
 			if (v_TestAnsPatterns[x] > 1) {
 
-				if (x < 53) {
-					std::cout << "Reading Question     [" << std::setfill('0') << std::setw(2) << x + 1 << "] was answered wrong [" 
-							  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+				if (x < 53) { // Reading
+
+					for (unsigned int z = 0; z < v_ReadingWrongAns.size(); z++) {
+						
+						if (x + 1 == v_ReadingWrongAns[z]) {
+							std::cout << "Reading Question     [" << std::setfill('0') << std::setw(2) << x + 1 << "] was answered wrong ["
+									  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+						}
+					}
 				}
-				else if (x < 97) {
-					std::cout << "Writing Question     [" << std::setfill('0') << std::setw(2) << x - 51 << "] was answered wrong [" 
-							  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+				else if (x < 97) { // Writing
+
+					for (unsigned int z = 0; z < v_WritingWrongAns.size(); z++) {
+
+						if (x - 51 == v_WritingWrongAns[z]) {
+							std::cout << "Writing Question     [" << std::setfill('0') << std::setw(2) << x - 51 << "] was answered wrong ["
+									  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+						}
+					}
 				}
-				else if (x < 117) {
-					std::cout << "Math - No Calculator [" << std::setfill('0') << std::setw(2) << x - 95 << "] was answered wrong [" 
-							  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+				else if (x < 117) { // Math - No Calculator
+
+					for (unsigned int z = 0; z < v_MathNoCalcWrongAns.size(); z++) {
+
+						if (x - 95 == v_MathNoCalcWrongAns[z]) {
+							std::cout << "Math - No Calculator [" << std::setfill('0') << std::setw(2) << x - 95 << "] was answered wrong ["
+									  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+						}
+					}
 				}
-				else {
-					std::cout << "Math - Calculator    [" << std::setfill('0') << std::setw(2) << x - 115 << "] was answered wrong [" 
-							  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+				else { // Math - Calculator
+
+					for (unsigned int z = 0; z < v_MathCalcWrongAns.size(); z++) {
+
+						if (x - 115 == v_MathCalcWrongAns[z]) {
+							std::cout << "Math - Calculator    [" << std::setfill('0') << std::setw(2) << x - 115 << "] was answered wrong ["
+									  << std::setfill('0') << std::setw(2) << v_TestAnsPatterns[x] << "] times." << std::endl;
+						}
+					}
 				}
 			}
 
