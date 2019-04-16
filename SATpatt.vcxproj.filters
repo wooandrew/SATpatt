@@ -82,6 +82,7 @@
     <None Include="ans\createraw.bat">
       <Filter>Source Files</Filter>
     </None>
+    <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="notepad.txt" />
