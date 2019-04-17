@@ -1,5 +1,6 @@
 ![Azure DevOps builds](https://img.shields.io/azure-devops/build/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/7.svg)
 [![Build Status](https://dev.azure.com/MrSatire/SATpatt/_apis/build/status/SATpatt?branchName=master)](https://dev.azure.com/MrSatire/SATpatt/_build/latest?definitionId=7&branchName=master)
+[![Board Status](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/b43272dd-ca19-42fd-bf69-abdba451b231/_apis/work/boardbadge/bac551b6-ee0a-46de-af8d-a04a70817766)](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/_boards/board/t/b43272dd-ca19-42fd-bf69-abdba451b231/Microsoft.FeatureCategory)
 
 # SATpatt: Streamline your SAT studying process
 ```

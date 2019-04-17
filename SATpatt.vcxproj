@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="fileautogen.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -189,6 +190,9 @@
   <ItemGroup>
     <Text Include="LICENSE.txt" />
     <Text Include="notepad.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="fileautogen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
