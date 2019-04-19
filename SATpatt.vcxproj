@@ -188,7 +188,6 @@
     <None Include="README.md" />
   </ItemGroup>
   <ItemGroup>
-    <Text Include="LICENSE.txt" />
     <Text Include="notepad.txt" />
   </ItemGroup>
   <ItemGroup>

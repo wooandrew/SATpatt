@@ -89,7 +89,6 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="notepad.txt" />
-    <Text Include="LICENSE.txt" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="fileautogen.h">
