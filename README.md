@@ -2,6 +2,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wooandrew/SATpatt.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/wooandrew/SATpatt.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/wooandrew/SATpatt.svg)
+![Custom](https://img.shields.io/badge/main_language-C%2B%2B-informational.svg)
 ![GitHub repo size](https://img.shields.io/github/repo-size/wooandrew/SATpatt.svg)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/wooandrew/SATpatt.svg)
 <!-- Related to Build/Release -->

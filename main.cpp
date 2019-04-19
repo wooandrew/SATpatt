@@ -54,6 +54,8 @@
 #include <limits>
 #include <iomanip>
 
+#include "fileautogen.h"
+
 // Scoring
 void Score(std::string s_TestID, int readingCorrect, int writingCorrect, int mathCorrect) {
 
@@ -188,6 +190,9 @@ private:
 int main() {
 
 	system("TITLE SATpatt");
+
+	FileAutoGen fAutoGen;
+	fAutoGen.initSetup();
 
 	bool exit = false;
 
