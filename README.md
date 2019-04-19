@@ -1,7 +1,15 @@
-![Azure DevOps builds](https://img.shields.io/azure-devops/build/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/7.svg)
-[![Build Status](https://dev.azure.com/MrSatire/SATpatt/_apis/build/status/SATpatt?branchName=master)](https://dev.azure.com/MrSatire/SATpatt/_build/latest?definitionId=7&branchName=master)
-![GitHub](https://img.shields.io/github/license/wooandrew/SATpatt.svg)
 [![Board Status](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/b43272dd-ca19-42fd-bf69-abdba451b231/_apis/work/boardbadge/bac551b6-ee0a-46de-af8d-a04a70817766)](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/_boards/board/t/b43272dd-ca19-42fd-bf69-abdba451b231/Microsoft.FeatureCategory)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wooandrew/SATpatt.svg)
+![GitHub last commit](https://img.shields.io/github/last-commit/wooandrew/SATpatt.svg)
+![GitHub language count](https://img.shields.io/github/languages/count/wooandrew/SATpatt.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/wooandrew/SATpatt.svg)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/wooandrew/SATpatt.svg)
+<!-- Related to Build/Release -->
+[![Build Status](https://dev.azure.com/MrSatire/SATpatt/_apis/build/status/SATpatt?branchName=master)](https://dev.azure.com/MrSatire/SATpatt/_build/latest?definitionId=7&branchName=master)
+![Azure DevOps builds](https://img.shields.io/azure-devops/build/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/7.svg)
+![GitHub](https://img.shields.io/github/license/wooandrew/SATpatt.svg)
+![GitHub release](https://img.shields.io/github/release/wooandrew/SATpatt.svg)
+
 
 # SATpatt: Streamline your SAT studying process
 ```
@@ -37,8 +45,10 @@ Using SATpatt is very simple:
 * Enter in your answers for that particular test
 * Thats it! SATpatt will do the rest. You should be able to see your test score, as well as a list of incorrectly answered questions.
 
-## MIT License
+## License
 ```
+MIT License
+
 Copyright 2019 Andrew Woo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy 
