@@ -6,7 +6,7 @@
 
 /* Title: SATpatt
  * Author: Andrew Woo
- * Version: rA002
+ * Version: rA00x
  * License: MIT
  *
  * Purpose: 
@@ -40,9 +40,10 @@
  *	find commonalities
 **/
 
-/// v0.1.0 ~ bA001 ::: BASIC FUNCTIONALITY
-/// v0.1.1 ~ bA002 ::: ADDS BIASED PATTERN OUTPUT
+/// v0.1.0 ~ bA001 ::: BASIC FUNCTIONALITY.
 /// v1.0.0 ~ rA001 ::: THIS CODE IS EXACTLY LIKE bA001.
+/// v1.1.0 ~ bA002 ::: ADDS BIASED PATTERN OUTPUT.
+/// v1.2.0 ~ bA003 ::: ADDS FILE AUTO-GEN.
 
 #include <iostream>
 #include <string>
@@ -52,6 +53,8 @@
 #include <locale>
 #include <limits>
 #include <iomanip>
+
+#include "fileautogen.h"
 
 // Scoring
 void Score(std::string s_TestID, int readingCorrect, int writingCorrect, int mathCorrect) {
@@ -187,6 +190,9 @@ private:
 int main() {
 
 	system("TITLE SATpatt");
+
+	FileAutoGen fAutoGen;
+	fAutoGen.initSetup();
 
 	bool exit = false;
 
