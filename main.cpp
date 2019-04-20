@@ -41,9 +41,12 @@
 **/
 
 /// v0.1.0 ~ bA001 ::: BASIC FUNCTIONALITY.
-/// v1.0.0 ~ rA001 ::: THIS CODE IS EXACTLY LIKE bA001.
+/// v1.0.0 ~ rA001 ::: ^^^^^^^^^^^^^^^^^^^^
 /// v1.1.0 ~ bA002 ::: ADDS BIASED PATTERN OUTPUT.
 /// v1.2.0 ~ bA003 ::: ADDS FILE AUTO-GEN.
+/// v1.2.0 ~ rA003 ::: ^^^^^^^^^^^^^^^^^^^
+/// v1.3.0 ~ bA004 ::: MD5 Hash Checking
+
 
 #include <iostream>
 #include <string>

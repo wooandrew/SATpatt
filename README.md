@@ -1,4 +1,4 @@
-[![Board Status](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/b43272dd-ca19-42fd-bf69-abdba451b231/_apis/work/boardbadge/bac551b6-ee0a-46de-af8d-a04a70817766)](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/_boards/board/t/b43272dd-ca19-42fd-bf69-abdba451b231/Microsoft.FeatureCategory)
+[![Board Status](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/b43272dd-ca19-42fd-bf69-abdba451b231/_apis/work/boardbadge/bac551b6-ee0a-46de-af8d-a04a70817766?columnOptions=1)](https://dev.azure.com/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/_boards/board/t/b43272dd-ca19-42fd-bf69-abdba451b231/Microsoft.FeatureCategory)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wooandrew/SATpatt.svg)
 ![GitHub last commit](https://img.shields.io/github/last-commit/wooandrew/SATpatt.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/wooandrew/SATpatt.svg)
@@ -16,7 +16,7 @@
 ```
  * Title: SATpatt
  * Author: Andrew Woo
- * Version: rA001
+ * Version: rA00x
  * License: MIT
  *
  * Purpose:
@@ -34,6 +34,12 @@ There are several ways to download SATpatt. Here are a few:
 ~~~
 git clone @ SSH:   git@ssh.dev.azure.com:v3/MrSatire/SATpatt/SATpatt
 git clone @ HTTPS: https://MrSatire@dev.azure.com/MrSatire/SATpatt/_git/SATpatt
+
+git clone @ SSH:   git@github.com:wooandrew/SATpatt.git  
+git clone @ HTTPS: https://github.com/wooandrew/SATpatt.git
+
+Download a Release Version:
+https://github.com/wooandrew/SATpatt/releases
 
 Alternatively, download the source code from my website:
 https://wooandrew.github.io/projects/studytools/studytools.htm
