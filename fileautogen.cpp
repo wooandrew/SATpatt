@@ -39,6 +39,8 @@
 #include <fstream>
 #include <sstream>
 
+
+// Splits string given delimiter
 std::vector<std::string> split(const std::string& s, char delimiter) {
 
 	std::vector<std::string> tokens;
@@ -55,6 +57,7 @@ std::vector<std::string> split(const std::string& s, char delimiter) {
 FileAutoGen::FileAutoGen() {}
 FileAutoGen::~FileAutoGen() {}
 
+// Initial setup (first time run only, or when files are corrupted).
 void FileAutoGen::initSetup() {
 
 	std::ifstream in_initSetup("init.txt");
@@ -173,10 +176,20 @@ bool FileAutoGen::generate() {
 
 		std::string temp = "";
 
+		/// Generate .pattern Files
+		temp = "ans\\0" + std::to_string(x + 1) + "_test.pattern";
+		_pattern.open(temp);
+		for (int x = 0; x < 154; x++) {
+			_pattern << 0 << std::endl;
+		}
+		_pattern.close();
+		/// Generate .pattern Files
+
 		char buf[52];
-		std::stringstream r_ss(reading_rawscore[x]);
 
 		/// Generate Files for Reading Section
+		std::stringstream r_ss(reading_rawscore[x]);
+
 		temp = "ans\\0" + std::to_string(x + 1) + "_reading.rawscore";
 		_rawscore.open(temp);
 		while (r_ss >> buf) {
