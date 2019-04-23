@@ -1,171 +1,69 @@
-MD5 hash of 08_writing.rawscore:
-3ab7e65feee2a3697c13032a6b297864
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_mathnocalc.ans:
-30f56ec364e2dee94de49f58b5c45e91
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_mathcalc.ans:
-6db67fde2358f070e8204a6e96b10e48
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_reading.ans:
-049c7164bff3223f6b3f627edb0e1916
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_writing.ans:
-52600e3cd1b4740e1497f56bb6bf7bc1
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_mathnocalc.ans:
-fcb8cdae3750016866011c85ab1bbd95
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_mathcalc.ans:
-95f5eb5bc8dceccacad9b99b3cde1824
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_reading.ans:
-f5fbaa2179cf2984866da3a87c0bc256
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_writing.ans:
-9019cfda9b76a44905de7c1c7e75a9a5
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_mathnocalc.ans:
-1073211754fe14444fcd2aa96b21f3b0
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_mathcalc.ans:
-030ce43f9195b6764947b2dc4e28ad3e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_reading.ans:
-cb8aed6a7e9ad26aa2182eb189e0ce55
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_writing.ans:
-11b297ff52222be6d7645138381c0056
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_mathnocalc.ans:
-600df23f2cb899147aca0a82996a1b41
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_mathcalc.ans:
-3b91344287a0d4151861238084254759
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_reading.ans:
-9f2e528a779f176229158a7c2e9d6057
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_writing.ans:
-61e0bfc4630b2a96246611ac8b6fcc29
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_mathnocalc.ans:
-f330473c411afec8b64ffe69d7e96cf0
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_mathcalc.ans:
-325146e05f67feb323ac6032bfcf4cd1
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_reading.ans:
-20a0db38f5fe29d761dea2849011aa25
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_writing.ans:
-5fbb1718d56948ca8082dcd50eca6083
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_mathnocalc.ans:
-d3e133b7ae93de2650b7565585e7d0d7
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_mathcalc.ans:
-9732fa1518b0f3fdc0280ef5eb803aef
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_reading.ans:
-3a293f2b9305b459a93c1e61fa9c8b43
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_writing.ans:
-92db64c226e445d8530f7ab2766aee41
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_mathnocalc.ans:
-ba840f75f653c373ab4cb5de2e94d58e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_mathcalc.ans:
-07ab30a65b67d165f82db1a103f15f6e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_reading.ans:
-e5365783779f7b86d647fa16b44ff01e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_writing.ans:
-b30be8daa1e79bdd9e0e28d75c215fd1
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_mathnocalc.ans:
-7f5ab2d471e687ab75ed400f1b5862d6
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_mathcalc.ans:
-e4124c05ec3657b2eef3848dda85c9e1
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_reading.ans:
-1445fa0cc0c477c871cb2b539b49970e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_writing.ans:
-53d4aed72fa1bce0dc4bd36b6655d3f1
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_math.rawscore:
-60b3c5a0f3be577781b9ef72df6d6327
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_reading.rawscore:
-c42cc7af58af0ee80b1654968af7257e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 01_writing.rawscore:
-118f06064993bfd6037b01441a474dde
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_math.rawscore:
-f41c09e6d6221d60941357c952666313
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_reading.rawscore:
-6889644023faf7ed5a22998103325bdb
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 02_writing.rawscore:
-afc899a24da1774ec5eb30c75f6e4db3
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_math.rawscore:
-e052b00168f46c7caa9b6a577410cbaa
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_reading.rawscore:
-875054f3909a4d454f714a0dbcea400a
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 03_writing.rawscore:
-acf277239884eb0e41f56d705188653e
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_math.rawscore:
-f41c09e6d6221d60941357c952666313
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_reading.rawscore:
-6889644023faf7ed5a22998103325bdb
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 04_writing.rawscore:
-afc899a24da1774ec5eb30c75f6e4db3
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_math.rawscore:
-ff7329d26bdd888c1552a82883f39135
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_reading.rawscore:
-66949ea391433e188dd9353d1544f27c
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 05_writing.rawscore:
-acd360cb2ae5c64ba04f80b0edd44bab
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_math.rawscore:
-320d54db3e2c8546939a6a088e65a80b
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_reading.rawscore:
-c3953a83aaa9209f9d6d271361dcfced
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 06_writing.rawscore:
-38d30c2ad2fa2bb95e5f64838513a534
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_math.rawscore:
-30f1075ed06a0f3d6d42ed57fb6961e9
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_reading.rawscore:
-02853f997a2ea8db275c8bb3ade30fe7
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 07_writing.rawscore:
-88b40f1513dc9352cb0b457a41e104aa
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_math.rawscore:
-ec4af2ece2552fcd455ea1e72c0a5a92
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_reading.rawscore:
-0a3e397444e14c376924845f091e1205
-CertUtil: -hashfile command completed successfully.
-MD5 hash of 08_writing.rawscore:
-3ab7e65feee2a3697c13032a6b297864
-CertUtil: -hashfile command completed successfully.
+std::vector<std::string> mathnocalc_ans;
+mathnocalc_ans.push_back("30f56ec364e2dee94de49f58b5c45e91");
+mathnocalc_ans.push_back("fcb8cdae3750016866011c85ab1bbd95");
+mathnocalc_ans.push_back("1073211754fe14444fcd2aa96b21f3b0");
+mathnocalc_ans.push_back("600df23f2cb899147aca0a82996a1b41");
+mathnocalc_ans.push_back("f330473c411afec8b64ffe69d7e96cf0");
+mathnocalc_ans.push_back("d3e133b7ae93de2650b7565585e7d0d7");
+mathnocalc_ans.push_back("ba840f75f653c373ab4cb5de2e94d58e");
+mathnocalc_ans.push_back("7f5ab2d471e687ab75ed400f1b5862d6");
+
+std::vector<std::string> mathcalc_ans;
+mathcalc_ans.push_back("6db67fde2358f070e8204a6e96b10e48");
+mathcalc_ans.push_back("95f5eb5bc8dceccacad9b99b3cde1824");
+mathcalc_ans.push_back("030ce43f9195b6764947b2dc4e28ad3e");
+mathcalc_ans.push_back("3b91344287a0d4151861238084254759");
+mathcalc_ans.push_back("325146e05f67feb323ac6032bfcf4cd1");
+mathcalc_ans.push_back("9732fa1518b0f3fdc0280ef5eb803aef");
+mathcalc_ans.push_back("07ab30a65b67d165f82db1a103f15f6e");
+mathcalc_ans.push_back("e4124c05ec3657b2eef3848dda85c9e1");
+
+std::vector<std::string> reading_ans;
+reading_ans.push_back("049c7164bff3223f6b3f627edb0e1916");
+reading_ans.push_back("f5fbaa2179cf2984866da3a87c0bc256");
+reading_ans.push_back("cb8aed6a7e9ad26aa2182eb189e0ce55");
+reading_ans.push_back("9f2e528a779f176229158a7c2e9d6057");
+reading_ans.push_back("20a0db38f5fe29d761dea2849011aa25");
+reading_ans.push_back("3a293f2b9305b459a93c1e61fa9c8b43");
+reading_ans.push_back("e5365783779f7b86d647fa16b44ff01e");
+reading_ans.push_back("1445fa0cc0c477c871cb2b539b49970e");
+
+std::vector<std::string> writing_ans;
+writing_ans.push_back("52600e3cd1b4740e1497f56bb6bf7bc1");
+writing_ans.push_back("9019cfda9b76a44905de7c1c7e75a9a5");
+writing_ans.push_back("11b297ff52222be6d7645138381c0056");
+writing_ans.push_back("61e0bfc4630b2a96246611ac8b6fcc29");
+writing_ans.push_back("5fbb1718d56948ca8082dcd50eca6083");
+writing_ans.push_back("92db64c226e445d8530f7ab2766aee41");
+writing_ans.push_back("b30be8daa1e79bdd9e0e28d75c215fd1");
+writing_ans.push_back("53d4aed72fa1bce0dc4bd36b6655d3f1");
+
+std::vector<std::string> math_rawscore;
+math_rawscore.push_back("60b3c5a0f3be577781b9ef72df6d6327");
+math_rawscore.push_back("f41c09e6d6221d60941357c952666313");
+math_rawscore.push_back("e052b00168f46c7caa9b6a577410cbaa");
+math_rawscore.push_back("f41c09e6d6221d60941357c952666313");
+math_rawscore.push_back("ff7329d26bdd888c1552a82883f39135");
+math_rawscore.push_back("320d54db3e2c8546939a6a088e65a80b");
+math_rawscore.push_back("30f1075ed06a0f3d6d42ed57fb6961e9");
+math_rawscore.push_back("ec4af2ece2552fcd455ea1e72c0a5a92");
+
+std::vector<std::string> reading_rawscore;
+reading_rawscore.push_back("c42cc7af58af0ee80b1654968af7257e");
+reading_rawscore.push_back("6889644023faf7ed5a22998103325bdb");
+reading_rawscore.push_back("875054f3909a4d454f714a0dbcea400a");
+reading_rawscore.push_back("6889644023faf7ed5a22998103325bdb");
+reading_rawscore.push_back("66949ea391433e188dd9353d1544f27c");
+reading_rawscore.push_back("c3953a83aaa9209f9d6d271361dcfced");
+reading_rawscore.push_back("02853f997a2ea8db275c8bb3ade30fe7");
+reading_rawscore.push_back("0a3e397444e14c376924845f091e1205");
+
+std::vector<std::string> writing_rawscore;
+writing_rawscore.push_back("118f06064993bfd6037b01441a474dde");
+writing_rawscore.push_back("afc899a24da1774ec5eb30c75f6e4db3");
+writing_rawscore.push_back("acf277239884eb0e41f56d705188653e");
+writing_rawscore.push_back("afc899a24da1774ec5eb30c75f6e4db3");
+writing_rawscore.push_back("acd360cb2ae5c64ba04f80b0edd44bab");
+writing_rawscore.push_back("38d30c2ad2fa2bb95e5f64838513a534");
+writing_rawscore.push_back("88b40f1513dc9352cb0b457a41e104aa");
+writing_rawscore.push_back("3ab7e65feee2a3697c13032a6b297864");
