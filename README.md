@@ -10,8 +10,9 @@
 ![Azure DevOps builds](https://img.shields.io/azure-devops/build/MrSatire/d2730864-d8bc-4455-85f1-0386a92cfbf6/7.svg)
 ![GitHub](https://img.shields.io/github/license/wooandrew/SATpatt.svg)
 ![GitHub release](https://img.shields.io/github/release/wooandrew/SATpatt.svg)
+![Archived](https://img.shields.io/badge/Archived-Yes-red.svg)
 
-
+# WARNING: THIS REPOSITORY HAS BEEN ARCHIVED.
 # SATpatt: Streamline your SAT studying process
 ```
  * Title: SATpatt
